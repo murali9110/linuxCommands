@@ -1,0 +1,9 @@
+command : sort
+options
+north: Sort the data according to the
+-R: Display the values ​​in a random order
+-r: sort the data in descending order
+-k: used when the data is split into multiple columns
+-your : Sort and display only unique values
+-EITHER : Save the output to a different file
+-C: Check whether the specified file is sorted or not

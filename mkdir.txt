@@ -1,0 +1,7 @@
+command:mkdir
+
+mkdir has 3 options which we can add to our command:
+
+-p - this allows us to make multiple directories within each other.
+-v - this outputs information on the directory or directories created.
+-m - this lets us set the chmod/mode value for our directory, i.e. 777.
